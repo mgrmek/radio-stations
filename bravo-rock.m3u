@@ -1,4 +1,5 @@
 #EXTM3U
-#PLAYLIST: Bravo! - Rock
-#EXTINF: Bravo! - Rock
+#PLAYLIST:Bravo! - Rock
+#EXTIMG:https://raw.githubusercontent.com/mgrmek/radio-stations/main/bravo!-rock-min.jpg
+#EXTINF:-1,Bravo! - Rock
 http://c5.hostingcentar.com:8348/stream?1989
