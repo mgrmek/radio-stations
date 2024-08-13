@@ -1,0 +1,5 @@
+#EXTM3U
+#PLAYLIST:Bravo! - Pop
+#EXTIMG:https://raw.githubusercontent.com/mgrmek/radio-stations/main/bravo!-pop-min.jpg
+#EXTINF:-1,Bravo! - Pop
+http://c5.hostingcentar.com:8354/stream?979
