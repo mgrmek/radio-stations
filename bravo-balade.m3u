@@ -1,0 +1,5 @@
+#EXTM3U
+#PLAYLIST:Bravo! - Balade
+#EXTIMG:https://raw.githubusercontent.com/mgrmek/radio-stations/main/bravo!-balade-min.jpg
+#EXTINF:-1,Bravo! - Balade
+http://c5.hostingcentar.com:8360/stream?8315
